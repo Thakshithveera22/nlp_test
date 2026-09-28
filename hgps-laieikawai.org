@@ -1,0 +1,36 @@
+| first name | color |
+|------------+-------|
+| Emily      | g     |
+| Jorge      | g     |
+| Srikar     | g     |
+| Veera      | g     |
+| Wes        | g     |
+| Ayaan      | p     |
+| Carter     | p     |
+| Daelin     | p     |
+| Nathanael  | p     |
+| Sanjit     | p     |
+| Hannah     | y     |
+| Kiwon      | y     |
+| Tingyan    | y     |
+
+
+
+| hw | lead |
+|----+------|
+|  1 | p    |
+|  2 | y    |
+|  3 | g    |
+
+
+
+
+| gp | hw1                     | hw2                      | hw3                   |
+|----+-------------------------+--------------------------+-----------------------|
+|  1 | Emily  Ayaan    Hannah  | Emily  Sanjit            | Emily  Nathanael      |
+|  2 | Jorge  Carter   Kiwon   | Jorge  Ayaan     Hannah  | Jorge  Sanjit         |
+|  3 | Srikar Daelin   Tingyan | Srikar Carter    Kiwon   | Srikar Ayaan  Hannah  |
+|  4 | Veera  Nathanael        | Veera  Daelin    Tingyan | Veera  Carter Kiwon   |
+|  5 | Wes    Sanjit           | Wes    Nathanael         | Wes    Daelin Tingyan |
+	      
+
